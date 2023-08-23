@@ -1,1 +1,0 @@
-# Markdown-Liferay-Training
